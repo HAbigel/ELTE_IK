@@ -10,7 +10,7 @@
 ### Többváltozós függvénytan *( 4 )*
 -	ZH 2
 -	RöpZhk
-### Bevezetés a számelméletbe *( 2 + 3 )*
+### Bevszám *( 2 + 3 )*
 -	**Vizsga** (elővizsga szorgalmi utolsó hetén)
 -	ZH 2
 ### Nummód I. *( 2 + 3 )*
@@ -45,3 +45,4 @@
 ### Versenyfelügyelet *( 2 )*
 -	versenyfelügyelet
 -	utánanézni infóversenyeknek
+
