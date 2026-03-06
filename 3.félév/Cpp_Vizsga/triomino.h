@@ -100,46 +100,11 @@ public:
 
         return false;
     }
-    /*
-
-    bool equals(triomino<T> o) // shallow copy !!!
-    {
-        typename std::list<Tri<T> >::iterator it;
-        typename std::list<Tri<T> >::iterator ito;
-        
-        for (it = tabla.begin(); it != tabla.end(); it++)
-        {
-            bool g = false;
-            for (ito = o.tabla.begin(); ito != o.tabla.end(); ito++)
-            {
-                if(it->operator==(*ito) && !g)
-                {
-                    o.tabla.erase(ito);
-                    g = true;
-                }
-            }
-            if(!g){
-                return false;
-            }
-        }
-
-        if(o.size()!=0)
-        {
-            return false;
-        }
-        else{
-            return true;
-        }
-    }
-
-    friend bool operator==(triomino<T>& lhs, triomino<T>& rhs)
-    {
-        return lhs.equals(rhs);
-    }*/
 
 private:
     std::list<Tri<T> > tabla;
     std::list<std::pair<T,T> > ends;
 };
+
 
 #endif
