@@ -17,6 +17,7 @@ Programtervező Informatikus BSc. nappali (2024-)
   (Adatbázisok, Analízis, Algo, Dimat, Formális nyelvek, C++)
 
 - Matek minden (analízisek 1-4+alkalmazásai, többváltozós függvényytan etc): [https://numanal-old.inf.elte.hu/~alex/](https://numanal-old.inf.elte.hu/~alex/)
+- Gyak és ea anyagok mindenből, mintavizsgák: (https://remarci.web.elte.hu/Archives/)[https://remarci.web.elte.hu/Archives/]
 
 ***
 
