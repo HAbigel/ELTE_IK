@@ -45,7 +45,7 @@ Datarow AskForData()
 
 void PrintDatarow(int i, Datarow* row)
 {
-    printf("%d. %s, %s, %s, %d, %d\n", i, row->termohely, row->tabla, row->tipus, row->meret, row->pusztitasmerteke);
+    printf("%d. %s, %s, %s, %d négyszögöl, %d%%\n", i, row->termohely, row->tabla, row->tipus, row->meret, row->pusztitasmerteke);
 }
 
 int OpenFile(const char* filename, int flags)
