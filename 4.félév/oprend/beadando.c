@@ -43,6 +43,11 @@ Datarow AskForData()
     return newData;
 }
 
+void PrintDatarow(int i, Datarow* row)
+{
+    printf("%d. %s, %s, %s, %d négyszögöl, %d%%\n", i, row->termohely, row->tabla, row->tipus, row->meret, row->pusztitasmerteke);
+}
+
 int OpenFile(const char* filename, int flags)
 {
     int dataFile = open(filename, flags, S_IRUSR | S_IWUSR);
@@ -121,7 +126,7 @@ void ListDatabase(int database)
     lseek(database, 0, SEEK_SET);
 
     while(read(database, &row, sizeof(Datarow)) == sizeof(Datarow)) {
-        printf("%d. %s, %s, %s, %d, %d\n", i, row.termohely, row.tabla, row.tipus, row.meret, row.pusztitasmerteke);
+        PrintDatarow(i, &row);
         i++;
     }
 }
@@ -155,7 +160,7 @@ void Filter(int (*match)(Datarow*, const char*), const char* filterparameter)
     while(read(database, &row, sizeof(Datarow)) == sizeof(Datarow)) {
         if( match(&row, filterparameter) != 0)
         {
-            printf("%d. %s, %s, %s, %d, %d\n", i, row.termohely, row.tabla, row.tipus, row.meret, row.pusztitasmerteke);
+            PrintDatarow(i, &row);
             i++;
         }    
     }
