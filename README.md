@@ -33,7 +33,7 @@ Programtervező Informatikus BSc. nappali (2024-)
 - Impprog: [https://github.com/whisperity/Imperative-Programming/tree/master](https://github.com/whisperity/Imperative-Programming/tree/master)
 - CISCO: [https://itexamanswers.net/ccna-cybersecurity-operations-cyber-ops-v1-1-exam-answers.html](https://itexamanswers.net/ccna-cybersecurity-operations-cyber-ops-v1-1-exam-answers.html)
 - Szoftver mély neuronhálók alkalmazásához (vizsgatételek kidolgozva 2024): [https://github.com/Miki0195/4.Felev/blob/main/Neuronh%C3%A1l%C3%B3k/vizsga/vizsga.md](https://github.com/Miki0195/4.Felev/blob/main/Neuronh%C3%A1l%C3%B3k/vizsga/vizsga.md)
-
+- Adatbázisok I ea: [https://quiz-theta-ashy-80.vercel.app/](https://quiz-theta-ashy-80.vercel.app/)
 ***
 - Kriptográfia és biztonság (PPT + mintavizsga): [https://remarci.web.elte.hu/Archives/Kriptogr%C3%A1fia%20%C3%A9s%20biztons%C3%A1g/ea/](https://remarci.web.elte.hu/Archives/Kriptogr%C3%A1fia%20%C3%A9s%20biztons%C3%A1g/ea/)
 - Kriptográfia és biztonság (might be useful): [https://onlinelibrary.wiley.com/doi/10.1155/2021/6614172](https://onlinelibrary.wiley.com/doi/10.1155/2021/6614172)
