@@ -16,7 +16,7 @@ Programtervező Informatikus BSc. nappali (2024-)
 - Minden (A szakirány): [http://elte.bhawk.hu/](http://elte.bhawk.hu/)
   (Adatbázisok, Analízis, Algo, Dimat, Formális nyelvek, C++)
 
-- Matek minden (analízisek 1-4+alkalmazásai, többváltozós függvényytan etc): [https://numanal-old.inf.elte.hu/~alex/](https://numanal-old.inf.elte.hu/~alex/)
+- Matek numanal minden (analízisek 1-4+alkalmazásai, többváltozós függvényytan etc): [https://numanal-old.inf.elte.hu/~alex/](https://numanal-old.inf.elte.hu/~alex/)
 - Gyak és ea anyagok mindenből, mintavizsgák: (https://remarci.web.elte.hu/Archives/)[https://remarci.web.elte.hu/Archives/]
 
 ***
@@ -48,15 +48,13 @@ Programtervező Informatikus BSc. nappali (2024-)
 
 ***
 
-### Discord:
-- Project C
-- IK Közösség
-- MEGA Matek
-
-
-### Quizletek:
+### Quizletek, kvízek, kérdésbankok:
 - Jog: [https://quizlet.com/hu/1050352103/elte-ik-jog-2025-flash-cards/](https://quizlet.com/hu/1050352103/elte-ik-jog-2025-flash-cards/)
 - EVA: [https://quizlet.com/hu/653262942/eva-beugro-flash-cards/](https://quizlet.com/hu/653262942/eva-beugro-flash-cards/)
 - C++: [https://quizlet.com/hu/410276864/c-beugro-flash-cards/](https://quizlet.com/hu/410276864/c-beugro-flash-cards/)
 - Adatbázis I: [https://quizlet.com/hu/922812968/adatbazis-i-elte-ik-flash-cards/](https://quizlet.com/hu/922812968/adatbazis-i-elte-ik-flash-cards/)
 - Bevszám vizsga: [https://quizlet.com/hu/1158801106/szamelmelet-alapjai-igazhamis-2026-tavasz-flash-cards/?x=1jqU&i=32cx7z](https://quizlet.com/hu/1158801106/szamelmelet-alapjai-igazhamis-2026-tavasz-flash-cards/?x=1jqU&i=32cx7z)
+- Nummód I beugró: [https://quizlet.com/hu/1050457282/numerikus-modszerek-1-beugro-kerdesek-flash-cards/?i=2okea9&x=1jqt](https://quizlet.com/hu/1050457282/numerikus-modszerek-1-beugro-kerdesek-flash-cards/?i=2okea9&x=1jqt)
+
+- EVA, Szofttech, Fonya: [https://bbitibb.github.io/fast-quiz/](https://bbitibb.github.io/fast-quiz/)
+- Adatbázisok I ea: [https://quiz-theta-ashy-80.vercel.app/](https://quiz-theta-ashy-80.vercel.app/)
