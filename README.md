@@ -24,7 +24,7 @@ Programtervező Informatikus BSc. nappali (2024-)
 
 ***
 
-- EVA, Nummód, 3.félév (A szakirány): [https://furtib.web.elte.hu/submenu.html?felev=3](https://furtib.web.elte.hu/submenu.html?felev=3)
+- EVA, Nummód, C++, Jog, stb: [https://furtib.web.elte.hu/submenu.html?felev=3](https://furtib.web.elte.hu/submenu.html?felev=3)
 - C++ Beugró: [http://elte.bhawk.hu/Programozasi%20Nyelvek%20CPP/progcpp.htm](http://elte.bhawk.hu/Programozasi%20Nyelvek%20CPP/progcpp.htm)
 - EVA, Szofttech, Fonya: [https://bbitibb.github.io/fast-quiz/](https://bbitibb.github.io/fast-quiz/)
 
