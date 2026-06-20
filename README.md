@@ -12,19 +12,20 @@ Programtervező Informatikus BSc. nappali (2024-)
 ### Tanulmányi:
 - Minden (C szakirány): [https://github.com/Valentinusz/elte-ik-bsc](https://github.com/Valentinusz/elte-ik-bsc)
   (tényleg minden)
-- Minden (B szakirány): [https://github.com/szbnikolett/elte-pti-bsc](https://github.com/szbnikolett/elte-pti-bsc) (B szakirány, minden tárgy + kötválok)(Beadandók, ZH-k, részletes vélemény tárgyakról és tanárokról)
+- Minden (B szakirány): [https://github.com/szbnikolett/elte-pti-bsc](https://github.com/szbnikolett/elte-pti-bsc)
+  (B szakirány, minden tárgy + kötválok)(Beadandók, ZH-k, részletes vélemény tárgyakról és tanárokról)
 - Minden (A szakirány): [http://elte.bhawk.hu/](http://elte.bhawk.hu/)
   (Adatbázisok, Analízis, Algo, Dimat, Formális nyelvek, C++)
+- További hasznos githubok: [https://github.com/stars/HAbigel/lists/elte-proginf](https://github.com/stars/HAbigel/lists/elte-proginf)
+  (EVA, Nummód, C++, Analízis, Adatbázisok, Algo, Dimat, ADA)
 
-- Matek minden (analízisek 1-4+alkalmazásai, többváltozós függvényytan etc): [https://numanal-old.inf.elte.hu/~alex/](https://numanal-old.inf.elte.hu/~alex/)
+- Matek numanal minden (analízisek 1-4+alkalmazásai, többváltozós függvényytan etc): [https://numanal-old.inf.elte.hu/~alex/](https://numanal-old.inf.elte.hu/~alex/)
 - Gyak és ea anyagok mindenből, mintavizsgák: (https://remarci.web.elte.hu/Archives/)[https://remarci.web.elte.hu/Archives/]
 
 ***
 
-- EVA, Nummód, 3.félév (A szakirány): [https://furtib.web.elte.hu/submenu.html?felev=3](https://furtib.web.elte.hu/submenu.html?felev=3)
-- C++, Analízis, Adatbázisok, ADA: [https://github.com/Szelethus](https://github.com/Szelethus)
+- EVA, Nummód, C++, Jog, stb: [https://furtib.web.elte.hu/submenu.html?felev=3](https://furtib.web.elte.hu/submenu.html?felev=3)
 - C++ Beugró: [http://elte.bhawk.hu/Programozasi%20Nyelvek%20CPP/progcpp.htm](http://elte.bhawk.hu/Programozasi%20Nyelvek%20CPP/progcpp.htm)
-- C++, Algo, Analzis, Dimat, Nummód (A szakirány): [https://github.com/Fo0oCUS/ELTE_Stash](https://github.com/Fo0oCUS/ELTE_Stash)
 - EVA, Szofttech, Fonya: [https://bbitibb.github.io/fast-quiz/](https://bbitibb.github.io/fast-quiz/)
 
 ***
@@ -43,20 +44,19 @@ Programtervező Informatikus BSc. nappali (2024-)
 
 ***
 
-- Általános infók tárgyakról, mintavizsga: [https://fulepdani.web.elte.hu/](https://fulepdani.web.elte.hu/)
+- Általános infók tárgyakról, mintavizsgák: [https://fulepdani.web.elte.hu/](https://fulepdani.web.elte.hu/)
 - Tananyagok (régi tanrend): [https://abarbermate.web.elte.hu/gabeee/?page=about.php](https://abarbermate.web.elte.hu/gabeee/?page=about.php)
 
 ***
 
-### Discord:
-- Project C
-- IK Közösség
-- MEGA Matek
-
-
-### Quizletek:
+### Quizletek, kvízek, kérdésbankok:
 - Jog: [https://quizlet.com/hu/1050352103/elte-ik-jog-2025-flash-cards/](https://quizlet.com/hu/1050352103/elte-ik-jog-2025-flash-cards/)
-- EVA: [https://quizlet.com/hu/653262942/eva-beugro-flash-cards/](https://quizlet.com/hu/653262942/eva-beugro-flash-cards/)
 - C++: [https://quizlet.com/hu/410276864/c-beugro-flash-cards/](https://quizlet.com/hu/410276864/c-beugro-flash-cards/)
-- Adatbázis I: [https://quizlet.com/hu/922812968/adatbazis-i-elte-ik-flash-cards/](https://quizlet.com/hu/922812968/adatbazis-i-elte-ik-flash-cards/)
+- EVA: [https://quizlet.com/hu/653262942/eva-beugro-flash-cards/](https://quizlet.com/hu/653262942/eva-beugro-flash-cards/)
+- EVA, Szofttech, Fonya: [https://bbitibb.github.io/fast-quiz/](https://bbitibb.github.io/fast-quiz/)
+- Adatbázis I ea: [https://quizlet.com/hu/922812968/adatbazis-i-elte-ik-flash-cards/](https://quizlet.com/hu/922812968/adatbazis-i-elte-ik-flash-cards/)
+- Adatbázis I ea: [https://quiz-theta-ashy-80.vercel.app/](https://quiz-theta-ashy-80.vercel.app/)
 - Bevszám vizsga: [https://quizlet.com/hu/1158801106/szamelmelet-alapjai-igazhamis-2026-tavasz-flash-cards/?x=1jqU&i=32cx7z](https://quizlet.com/hu/1158801106/szamelmelet-alapjai-igazhamis-2026-tavasz-flash-cards/?x=1jqU&i=32cx7z)
+- Nummód I beugró: [https://quizlet.com/hu/1050457282/numerikus-modszerek-1-beugro-kerdesek-flash-cards/?i=2okea9&x=1jqt](https://quizlet.com/hu/1050457282/numerikus-modszerek-1-beugro-kerdesek-flash-cards/?i=2okea9&x=1jqt)
+
+
