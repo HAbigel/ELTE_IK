@@ -59,5 +59,9 @@ Programtervező Informatikus BSc. nappali (2024-)
 - Adatbázis I ea: [https://quiz-theta-ashy-80.vercel.app/](https://quiz-theta-ashy-80.vercel.app/)
 - Bevszám vizsga: [https://quizlet.com/hu/1158801106/szamelmelet-alapjai-igazhamis-2026-tavasz-flash-cards/?x=1jqU&i=32cx7z](https://quizlet.com/hu/1158801106/szamelmelet-alapjai-igazhamis-2026-tavasz-flash-cards/?x=1jqU&i=32cx7z)
 - Nummód I beugró: [https://quizlet.com/hu/1050457282/numerikus-modszerek-1-beugro-kerdesek-flash-cards/?i=2okea9&x=1jqt](https://quizlet.com/hu/1050457282/numerikus-modszerek-1-beugro-kerdesek-flash-cards/?i=2okea9&x=1jqt)
-
+- Telekom Socket ZH: [https://quizlet.com/hu/1162058695/elte-ik-telekommunikacios-halozatok-zh-2-socket-kerdesek-flash-cards/?funnelUUID=1666de53-324a-4fae-bd7e-0daa1bdaeee7](https://quizlet.com/hu/1162058695/elte-ik-telekommunikacios-halozatok-zh-2-socket-kerdesek-flash-cards/?funnelUUID=1666de53-324a-4fae-bd7e-0daa1bdaeee7)
+- Telekom vizsga: [https://quizlet.com/hu/992064454/elte-ik-telekommunikacios-halozatok-kviz-flash-cards/](https://quizlet.com/hu/992064454/elte-ik-telekommunikacios-halozatok-kviz-flash-cards/)
+- Telekom vizsga (219): [https://quizlet.com/hu/1184711698/elte-ik-telekom-vizsgakerdesek-flash-cards/?funnelUUID=1bfd7ab0-7f8f-4ba3-96d5-d337a1533b89](https://quizlet.com/hu/1184711698/elte-ik-telekom-vizsgakerdesek-flash-cards/?funnelUUID=1bfd7ab0-7f8f-4ba3-96d5-d337a1533b89)
+- Telekom szójegyzék: [https://quizlet.com/hu/1184714557/elte-ik-telekom-vizsga-angol-szojegyzek-flash-cards/?funnelUUID=b026ae31-d632-427f-a045-4f100e4de97b](https://quizlet.com/hu/1184714557/elte-ik-telekom-vizsga-angol-szojegyzek-flash-cards/?funnelUUID=b026ae31-d632-427f-a045-4f100e4de97b)
+- MI: [https://quizlet.com/hu/851113582/mesterseges-intelligencia-flash-cards/](https://quizlet.com/hu/851113582/mesterseges-intelligencia-flash-cards/)
 
