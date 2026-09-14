@@ -5,7 +5,7 @@ Programtervező Informatikus BSc. nappali (2024-)
 ### Általános:
 - Tantervi háló (azóta volt 1-2 változtatás): [https://dominikf.web.elte.hu/kepek](https://dominikf.web.elte.hu/kepek)
     aktuális: [https://www.inf.elte.hu/tantervihalok](https://www.inf.elte.hu/tantervihalok)
-- Órarendtervező: [orarendtervezo.vercel.app](orarendtervezo.vercel.app) (előbb bent vannak az időpontok, mint a neptunban)
+- Órarendtervező: [https://orarendtervezo.vercel.app/](https://orarendtervezo.vercel.app/) (előbb bent vannak az időpontok, mint a neptunban)
 - Tanárokról vélemények: [https://www.markmyprofessor.com/kar/eotvos-lorand-tudomanyegyetem-informatikai-kar-45?](https://www.markmyprofessor.com/kar/eotvos-lorand-tudomanyegyetem-informatikai-kar-45?) (emellett discordon is érdemes érdeklődni)
 - ELTE térkép: [bis.elte.hu](bis.elte.hu)
 
