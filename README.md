@@ -4,7 +4,8 @@ Programtervező Informatikus BSc. nappali (2024-)
 ## Hasznos linkek:
 ### Általános:
 - Tantervi háló (azóta volt 1-2 változtatás): [https://dominikf.web.elte.hu/kepek](https://dominikf.web.elte.hu/kepek)
-- Órarendtervező: [https://gernyimark.web.elte.hu/](https://gernyimark.web.elte.hu/) (előbb bent vannak az időpontok, mint a neptunban)
+    aktuális: [https://www.inf.elte.hu/tantervihalok](https://www.inf.elte.hu/tantervihalok)
+- Órarendtervező: [https://orarendtervezo.vercel.app/](https://orarendtervezo.vercel.app/) (előbb bent vannak az időpontok, mint a neptunban)
 - Tanárokról vélemények: [https://www.markmyprofessor.com/kar/eotvos-lorand-tudomanyegyetem-informatikai-kar-45?](https://www.markmyprofessor.com/kar/eotvos-lorand-tudomanyegyetem-informatikai-kar-45?) (emellett discordon is érdemes érdeklődni)
 - ELTE térkép: [bis.elte.hu](bis.elte.hu)
 
@@ -56,7 +57,13 @@ Programtervező Informatikus BSc. nappali (2024-)
 - EVA, Szofttech, Fonya: [https://bbitibb.github.io/fast-quiz/](https://bbitibb.github.io/fast-quiz/)
 - Adatbázis I ea: [https://quizlet.com/hu/922812968/adatbazis-i-elte-ik-flash-cards/](https://quizlet.com/hu/922812968/adatbazis-i-elte-ik-flash-cards/)
 - Adatbázis I ea: [https://quiz-theta-ashy-80.vercel.app/](https://quiz-theta-ashy-80.vercel.app/)
-- Bevszám vizsga: [https://quizlet.com/hu/1158801106/szamelmelet-alapjai-igazhamis-2026-tavasz-flash-cards/?x=1jqU&i=32cx7z](https://quizlet.com/hu/1158801106/szamelmelet-alapjai-igazhamis-2026-tavasz-flash-cards/?x=1jqU&i=32cx7z)
-- Nummód I beugró: [https://quizlet.com/hu/1050457282/numerikus-modszerek-1-beugro-kerdesek-flash-cards/?i=2okea9&x=1jqt](https://quizlet.com/hu/1050457282/numerikus-modszerek-1-beugro-kerdesek-flash-cards/?i=2okea9&x=1jqt)
-
-
+- Bevszám vizsga: [https://quizlet.com/hu/1158801106/szamelmelet-alapjai-igazhamis-2026-tavasz-flash-cards/](https://quizlet.com/hu/1158801106/szamelmelet-alapjai-igazhamis-2026-tavasz-flash-cards/)
+- Nummód I beugró: [https://quizlet.com/hu/1050457282/numerikus-modszerek-1-beugro-kerdesek-flash-cards/](https://quizlet.com/hu/1050457282/numerikus-modszerek-1-beugro-kerdesek-flash-cards/)
+- Telekom Socket ZH: [https://quizlet.com/hu/1162058695/elte-ik-telekommunikacios-halozatok-zh-2-socket-kerdesek-flash-cards/](https://quizlet.com/hu/1162058695/elte-ik-telekommunikacios-halozatok-zh-2-socket-kerdesek-flash-cards/)
+- Telekom vizsga: [https://quizlet.com/hu/992064454/elte-ik-telekommunikacios-halozatok-kviz-flash-cards/](https://quizlet.com/hu/992064454/elte-ik-telekommunikacios-halozatok-kviz-flash-cards/)
+- Telekom vizsga (219): [https://quizlet.com/hu/1184711698/elte-ik-telekom-vizsgakerdesek-flash-cards/](https://quizlet.com/hu/1184711698/elte-ik-telekom-vizsgakerdesek-flash-cards/)
+- Telekom szójegyzék: [https://quizlet.com/hu/1184714557/elte-ik-telekom-vizsga-angol-szojegyzek-flash-cards/](https://quizlet.com/hu/1184714557/elte-ik-telekom-vizsga-angol-szojegyzek-flash-cards/)
+- MI: [https://quizlet.com/hu/851113582/mesterseges-intelligencia-flash-cards/](https://quizlet.com/hu/851113582/mesterseges-intelligencia-flash-cards/)
+- MI: [https://quizlet.com/hu/864149913/elte-artificial-intelligence-hun-flash-cards/](https://quizlet.com/hu/864149913/elte-artificial-intelligence-hun-flash-cards/)
+- Konkurens: [https://quizlet.com/hu/1180797991/konkurens-prog-elmelet-flash-cards/](https://quizlet.com/hu/1180797991/konkurens-prog-elmelet-flash-cards/)
+- Adatbázis II ea: [https://quizlet.com/hu/1129828522/adatbazisok-2-vizsga-beugro-flash-cards/](https://quizlet.com/hu/1129828522/adatbazisok-2-vizsga-beugro-flash-cards/)
