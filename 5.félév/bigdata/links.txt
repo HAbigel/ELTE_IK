@@ -1,0 +1,5 @@
+https://sparkbyexamples.com/
+
+https://www.geeksforgeeks.org/python/pyspark-tutorial/
+
+https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html
