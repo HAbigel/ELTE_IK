@@ -49,6 +49,8 @@ Programtervező Informatikus BSc. nappali (2024-)
 - Tananyagok (régi tanrend): [https://abarbermate.web.elte.hu/gabeee/?page=about.php](https://abarbermate.web.elte.hu/gabeee/?page=about.php)
 
 ***
+- big data -valentinusz: [https://github.com/Valentinusz/elte-ik-bsc/tree/main/5/bigdata](https://github.com/Valentinusz/elte-ik-bsc/tree/main/5/bigdata)
+***
 
 ### Quizletek, kvízek, kérdésbankok:
 - Jog: [https://quizlet.com/hu/1050352103/elte-ik-jog-2025-flash-cards/](https://quizlet.com/hu/1050352103/elte-ik-jog-2025-flash-cards/)
