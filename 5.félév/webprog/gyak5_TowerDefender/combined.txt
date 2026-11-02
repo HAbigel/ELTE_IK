@@ -1,0 +1,132 @@
+filename: events.js
+import { BOARD_SIZE } from "./params.js";
+import { board, buyTower, money } from "./state.js";
+import { renderBoard, renderMoney } from "./render.js";
+
+export function onCellClicked(event){
+    if(!event.target.closest("div.cell")) { 
+        return ;
+    }
+
+    const boardElement = event.target.closest("#board");
+    const moneyElement = document.querySelector("#money");
+
+    const cellElement = event.target.closest("div.cell");
+    if (cellElement.classList.contains("road")) {
+        return;
+    }
+
+    const cellIndex = Array.from(boardElement.children).indexOf(cellElement);
+    const y = Math.floor(cellIndex/ BOARD_SIZE);
+    const x = cellIndex % BOARD_SIZE;
+
+    buyTower(x, y);
+    moneyElement.innerHTML = renderMoney(money);
+    boardElement.innerHTML = renderBoard(board);
+}
+
+
+filename: index.js
+import { board, money, setup } from "./state.js"; // figyelni kell hogy a .js ott legyen a végén
+import { renderBoard, renderMoney } from "./render.js";
+import { BOARD_SIZE, PATH } from "./params.js";
+import { onCellClicked } from "./events.js";
+
+const boardElement = document.querySelector("#board");
+const moneyElement = document.querySelector("#money");
+
+
+boardElement.addEventListener("click", onCellClicked);
+
+setup(BOARD_SIZE, PATH);
+
+boardElement.innerHTML = renderBoard(board);
+moneyElement.innerHTML = renderMoney(money);
+
+
+
+filename: params.js
+export const BOARD_SIZE = 6;
+export const PATH = [
+    [1, 0], [1, 1], [1, 2], [1, 3], [1, 4],
+    [2, 4], [3, 4], [3, 3], [3, 2], [3, 1],
+    [4, 1], [5, 1], [5, 2], [5, 3], [5, 4], [5, 5],
+];
+
+
+filename: render.js
+import { enemies } from "./state";
+
+export function renderMoney(money){
+    return money; //`🪙 ${money}`;
+}
+
+export function renderBoard(board){ // ha paraméterként kapja meg akk tiszta fv lesz és könnyen tesztelhető, míg ha imoportként akkor nem
+    return `${board.map(renderRow).join("")}`;
+}
+
+function renderRow(row){ // nem mindent kell exportálni, ez pl belső fv
+    return `${row.map(renderCell).join("")}`;
+}
+
+function renderCell(cell){
+    const classes = ["cell"];
+    if(cell.isRoad) {
+        classes.push("road")
+    }
+    if(enemies.some((enemy) => enemy.x === cell.x && enemy.y === cell.y)){
+        classes.push("enemy");
+    }
+    if(cell.isTower){
+        classes.push("tower")
+    }
+    return `<div class="${classes.join(" ")}"></div>`;
+    //működik de csúnya: return `<div class="cell${cell.isRoad ? " road" : ""}"></div>`;
+}
+
+
+filename: state.js
+import { PATH } from "./params";
+
+export const board = []; // export -> ezzel teszem kívulről is láthatóvűá hogy importálható legyen
+export let money = 0;
+export const enemies = [];
+
+export function setup(boardSize, path){
+    money = 30;
+    const [x, y] = PATH[0];
+    enemies.push({x, y});
+
+    for (let y = 0; y < boardSize; y += 1){
+        const row = [];
+        for (let x = 0; x < boardSize; x += 1){
+            const isRoad = path.some((coords) => coords[0] === x && coords[1] === y);
+            row.push({ isRoad: isRoad, isTower: false });
+        }
+        board.push(row);
+    }
+}
+
+export function buyTower(x, y) {
+    const cell = board[y][x];
+
+    if (money < 10 || cell.isTower || cell.isRoad) {
+        return;
+    }
+
+    cell.isTower = true;
+    money -= 10;
+}
+
+export function moveEnemies(){
+    for(const enemy of enemies){
+        const pathIndex = PATH.findIndex(
+            ([x, y]) => enemy.x === x && enemy.y === y
+        );
+        const [newX, newY] = PATH[pathIndex + 1];
+        enemy.x = newX;
+        enemy.y = newY;
+    }
+}
+
+
